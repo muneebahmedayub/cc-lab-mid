@@ -1,0 +1,14 @@
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/bin/Debug/net8.0/LabMid
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/bin/Debug/net8.0/LabMid.deps.json
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/bin/Debug/net8.0/LabMid.runtimeconfig.json
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/bin/Debug/net8.0/LabMid.dll
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/bin/Debug/net8.0/LabMid.pdb
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/LabMid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/LabMid.AssemblyInfoInputs.cache
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/LabMid.AssemblyInfo.cs
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/LabMid.csproj.CoreCompileInputs.cache
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/LabMid.dll
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/refint/LabMid.dll
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/LabMid.pdb
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/LabMid.genruntimeconfig.cache
+/Users/muneebahmedayub/Documents/Compiler Construction/LabMid/LabMid/obj/Debug/net8.0/ref/LabMid.dll
